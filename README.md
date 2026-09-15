@@ -42,11 +42,6 @@ The dashboard includes:
 * KPI reporting
 * Business-oriented insights
 
-## 📁 Project Files
-
-* `Sales_Performance_Dashboard.xlsx` — Interactive Excel dashboard
-* `Sales_Data` — Sales dataset
-* `PivotTables` — Supporting PivotTables and analysis
 
 ## 👨‍💻 Author
 
